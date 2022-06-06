@@ -20,6 +20,7 @@ a {
   width: 120px;
   height: 300px;
   text-align: center;
+  /* opacity: 10%; */
 }
 .navbar h2 a {
   color: red;
